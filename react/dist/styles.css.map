@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","mappings":";;;AAAA;EACE,sBAAsB;AACxB,C","sources":["webpack://ssg-practice/./src/styles.css"],"sourcesContent":[".app {\n  background-color: gray;\n}"],"names":[],"sourceRoot":""}
