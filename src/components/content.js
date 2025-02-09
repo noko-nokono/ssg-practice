@@ -8,7 +8,7 @@ const Content = () => {
   }, []);
 
   return (
-    <div>
+    <div className='content'>
       <h1>Content</h1>
       <button onClick={handleButtonClick}>Display content?</button>
       {isClick && <p>This is the content.</p>}
